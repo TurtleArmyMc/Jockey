@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.turtlearmymc.jockey.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "EggEntityMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
